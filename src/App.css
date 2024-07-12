@@ -79,3 +79,15 @@
   font-size: 1.6rem;
   font-weight: 700;
 }
+.exponent-counter-container {
+  background-color: #f0f4f8;
+  padding: 0.1rem 1.5rem 1rem 1.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  min-width: 250px;
+  max-width: 400px;
+  min-height: 150px;
+  margin: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
